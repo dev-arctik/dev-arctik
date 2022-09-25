@@ -1,7 +1,21 @@
-- 👋 Hi, I’m Devansh Raj
-- 👀 I’m interested in anime, cssbattle...
-- 🌱 I'm a wordpress developer. 
-- ❄  I'm learning flutter. 
+
+# Devansh Raj
+
+Working on developing my skills in android development.
+Here's my skill count:
+
+### Skill Count
+Sort: Lastest at top
+
+- `Flutter`
+- `Dart`
+- `Figma`
+- `CSS`
+- `HTML`
+- `WordPress`
+- `Python`
+
+
 
 <!---
 dev-arctik/dev-arctik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
