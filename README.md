@@ -1,12 +1,13 @@
 
 # Devansh Raj
 
-Working on developing my skills in android development.
+Working on developing my skills in Android development.
 Here's my skill count:
 
 ### Skill Count
-Sort: Lastest at top
+Sort: Latest at top
 
+- `Kotlin`
 - `Flutter`
 - `Dart`
 - `Figma`
