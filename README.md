@@ -7,6 +7,7 @@ Here's my skill count:
 ### Skill Count
 Sort: Latest at top
 
+- `LangChain and LangGraph`
 - `Jetpack Compose`
 - `Kotlin`
 - `Flutter`
