@@ -1,7 +1,7 @@
 
 # Devansh Raj
 
-Working on developing my skills in Android development.
+Working on developing my skills in ML and AI.
 Here's my skill count:
 
 ### Skill Count
