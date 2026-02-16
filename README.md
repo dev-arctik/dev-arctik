@@ -1,6 +1,6 @@
 # Hey, I'm Devansh Raj
 
-**AI Agent Developer** at [GradScaler](https://github.com/dev-arctik) | Vadodara, India
+**AI Agent Developer** | Vadodara, India
 
 I build AI agents and explore the intersection of large language models with real-world automation. Currently deep into LangChain, LangGraph, and agent frameworks — turning LLMs into tools that actually do things.
 
@@ -11,7 +11,7 @@ I build AI agents and explore the intersection of large language models with rea
 - Building autonomous AI agents with **LangGraph** and **LangChain**
 - Exploring agent frameworks like **Agno** for rapid prototyping
 - Learning foundational ML — neural networks from scratch, backprop, the whole stack
-- Experimenting with **desktop automation** powered by natural language
+- Experimenting with **AI-powered automation** using natural language
 
 ---
 
@@ -21,9 +21,7 @@ I build AI agents and explore the intersection of large language models with rea
 |---|---|---|
 | [LangGraph_Learning](https://github.com/dev-arctik/LangGraph_Learning) | Multi-agent workflows, tool-calling, and stateful AI systems | ![Stars](https://img.shields.io/github/stars/dev-arctik/LangGraph_Learning?style=flat&color=yellow) |
 | [LangChain-Learning](https://github.com/dev-arctik/LangChain-Learning) | RAG pipelines, chains, memory, and LLM integrations | ![Stars](https://img.shields.io/github/stars/dev-arctik/LangChain-Learning?style=flat&color=yellow) |
-| [WindowsAutomation-Agent](https://github.com/dev-arctik/WindowsAutomation-Agent) | AI-powered Windows desktop automation via natural language | ![Stars](https://img.shields.io/github/stars/dev-arctik/WindowsAutomation-Agent?style=flat&color=yellow) |
 | [Agno-Learning](https://github.com/dev-arctik/Agno-Learning) | AI agent experiments with the Agno framework | ![Stars](https://img.shields.io/github/stars/dev-arctik/Agno-Learning?style=flat&color=yellow) |
-| [WSL-GUI](https://github.com/dev-arctik/WSL-GUI) | Complete guide for running Xfce desktop on WSL2 with Xrdp | ![Stars](https://img.shields.io/github/stars/dev-arctik/WSL-GUI?style=flat&color=yellow) |
 | [neural_network_learning](https://github.com/dev-arctik/neural_network_learning) | Neural nets from scratch — micrograd, makemore, backprop | ![Stars](https://img.shields.io/github/stars/dev-arctik/neural_network_learning?style=flat&color=yellow) |
 
 ---
