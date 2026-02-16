@@ -44,13 +44,4 @@ I build AI agents and explore the intersection of large language models with rea
 
 ---
 
-### GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-arctik&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-arctik&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
 <sub>Building things that think.</sub>
